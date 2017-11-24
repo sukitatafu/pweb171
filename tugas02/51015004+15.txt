@@ -1,0 +1,4 @@
++5 pertanyaan
++10 tugas selesai
++0 untuk setiap selector >13 baris
+-0 untuk halaman yang berrantakan saat diperkecil
