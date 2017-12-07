@@ -5,17 +5,23 @@
     <title>lagu anak</title>
     <link href="https://fonts.googleapis.com/css?family=Merienda|Short+Stack" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+
   </head>
   <body>
     <h1 class ="judulutama">Koleksi Lagu Anak</h1>
 
     <div class="sidemenu">
       <ul class="menu">
-        <li><a href="#">Pelangi</a></li>
-        <li><a href="#">Balonku</a></li>
-        <li><a href="#">Naik Kereta Api</a></li>
-        <li><a href="#">Cicak di dinding</a></li>
+        <li><a href="#"onclick="tampilLagu('pelangi')">Pelangi <span id="pelangi"></span> </a></li>
+        <li><a href="#"onclick="tampilLagu('balonku')">Balonku <span id="balonku"></span></a></li>
+        <li><a href="#"onclik="tampilLagu('kereta')">Naik Kereta Api <span id="kereta"></span></a></li>
+        <li><a href="#"onclick="tampilLagu('cicak')">Cicak di dinding <span id="cicak"></span></a></li>
       </ul>
+    </div>
+
+    <div id="info">
+      &lt;&lt; klik menu untuk melihat lagu
     </div>
 
     <div class="content">
@@ -111,5 +117,22 @@
           an
       </div>
     </div>
+
+    <script type="text/javascript">
+
+    counter = {
+      'pelangi':0,
+      'balon': 0,
+      'kereta': 0
+     }
+
+
+       function tampilLagu( id ){
+       $(".bloklagu").hide();
+       $('#'+id).show(); }
+
+       counter[id]++;
+      $('#c'+id).html(counter[id]);
+     </script>
   </body>
 </html>

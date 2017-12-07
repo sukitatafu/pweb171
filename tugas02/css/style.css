@@ -31,7 +31,15 @@ body
   width: 100%;
   margin-left: -40px;
 }
-
+#info
+{
+  color: #ff00ff;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-left: auto;
+  width: 600px;
+  padding: 10px;
+}
 .menu li
 {
   list-style: none;
@@ -79,6 +87,11 @@ body
   margin-right: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+  display: none;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
   display: block;
   overflow: hidden;
 
