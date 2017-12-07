@@ -1,0 +1,7 @@
++15 untuk yang selesai
+- 5 untuk copyrigt
+-5 judul warna sama antar judul dan conter
+-0 klik menu tidak hilang 
++3 untuk setiap selector
++0 untuk perubahan semua warna
++0 untuk setiap perbedaan type
