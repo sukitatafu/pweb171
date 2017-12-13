@@ -8,16 +8,15 @@
       private $program;
 
       private $data=[
-        '51015003'=>['nama'=>'Sistem Informasi','program'=>'Diploma'],
-        '51015004'=>['nama'=>'Sistem Informasi','program'=>'Sarjana'],
-        '51015006'=>['nama'=>'Sistem Informasi','progrma'=>'sarjana'],
-        '51015012'=>['nama'=>'Sistem Informasi','progrma'=>'sarjana'],
-        '51015010'=>['nama'=>'Sistem Informasi','progrma'=>'sarjana'],
-        '51015008'=>['nama'=>'Sistem Informasi', 'progrma'=>'sarjana']
+        '001'=>['nama'=>'Sistem Informasi','program'=>'Sarjana'],
+        '002'=>['nama'=>'Teknik Informatika','program'=>'Sarjana'],
+        '003'=>['nama'=>'Sistem Informasi','program'=>'Diploma'],
+        '004'=>['nama'=>'Teknik Informatika','program'=>'Diploma']
+
       ]  ;
-      function prostu($nim){
-        $this->nama = $this->data[$nim]['nama'];
-        $this->nama = $this->data[$nim]['program'];
+      function prostu($kode){
+        $this->nama = $this->data[$kode]['nama'];
+        $this->program = $this->data[$kode]['program'];
       }
 
       function getnama(){

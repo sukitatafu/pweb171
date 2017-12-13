@@ -1,6 +1,6 @@
 <?php
-  include ("member.php");
   include ("prostu.php");
+  include ("member.php");
 
   $nim = $_GET['nim'];
   $member = new member($nim);
@@ -22,6 +22,6 @@
      <h3><b><?=$member->getnama()?><b></h3><br>
     <h3><?=$member->getemail()?></h3><br>
     <h3><?=$member->getsex()?></h3><br>
-    <p><?=$prostu->getprogram()?><?=$prostu->getnama()?></p>
+    <p><?=$member->getpros()->getprogram()?><b> </b><?=$member->getpros()->getnama()?></p>
    </body>
  </html>
