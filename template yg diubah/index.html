@@ -10,10 +10,10 @@
     <title>Justified Nav Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
-
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/baru.css">
     <!-- Custom styles for this template -->
-    <link href="justified-nav.css" rel="stylesheet">
+    <link href="css/justified-nav.css" rel="stylesheet">
   </head>
 
   <body>
@@ -21,35 +21,33 @@
     <div class="container">
 
       <header class="masthead">
-        <h3 class="text-muted">Project name</h3>
+        <h3 class="text-muted">Lagu menyenangkan</h3>
 
         <nav class="navbar navbar-expand-md navbar-light bg-light rounded mb-3">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
+
             <ul class="navbar-nav text-md-center nav-justified w-100">
               <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#"onclick="tampillagu('home')">Home <span id="chome"></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Projects</a>
+                <a class="nav-link" href="#"onclick="tampillagu('pelangi')">Pelangi<span id="cpelangi"></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Services</a>
+                <a class="nav-link" href="#"onclick="tampillagu('balon')">Balonku<span id="cbalon"></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Downloads</a>
+                <a class="nav-link" href="#"onclick="tampillagu('kereta')">Naik Kereta Api<span id="ckereta"></span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="#"onclick="tampillagu('cicak')">Cicak<span id="ccicak"></span></a>
               </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
+              <li class="nav-item">
+                <a class="nav-link" href="#"onclick="tampillagu('kebun')">kebunku<span id="ckebun"></span></a>
+              </li>
                 </div>
               </li>
             </ul>
@@ -61,35 +59,20 @@
 
         <!-- Jumbotron -->
         <div class="jumbotron">
-          <h1>Marketing stuff!</h1>
-          <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
-          <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
+          <h1>HAI Selamat Datang di Web Anak</h1>
+          <p class="lead">Selamat menikmati lagu yang kami punya, walau masih sedikit tapi jika banyak yang menggunakannya maka akan diperbaharui dan koleksi lagu anak juga akan makin banyak :D</p>
+          <p><a class="btn btn-lg btn-success" href="#" role="button"onclik="tampillagu('baby')">Ayo mulai<span id="cbaby"></span></a></p>
         </div>
 
-        <!-- Example row of columns -->
-        <div class="row">
-          <div class="col-lg-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-          <div class="col-lg-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-          <div class="col-lg-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-            <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-        </div>
+
 
       </main>
 
       <!-- Site footer -->
       <footer class="footer">
-        <p>&copy; Company 2017</p>
+        <marquee behavior="alternate"
+         style="border:white 2px SOLID"><h1>&copy; Lagu Anak 2017</h1>
+        </marquee>
       </footer>
 
     </div> <!-- /container -->
