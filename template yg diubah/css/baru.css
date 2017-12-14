@@ -1,11 +1,6 @@
-.navbar {
-    background-image: linear-gradient(to bottom, #f7f7f7 0%,#eee 100%);
-    border: 1px solid #e5e5e5;
-}
-
 .bloklagu
 {
-  width: 700px;
+  width: 600px;
   box-shadow: 5px 5px #5b6783;
   background-color: #dcd8eb;
   border-radius: 7px;
