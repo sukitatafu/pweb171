@@ -1,0 +1,10 @@
++10 tugas selesai
++5 berhasil masuk tamplet
++5 custom tamplet
+2*7 untuk setiap selector dalam coustum style
++0 untuk custum favicon
+-0  untuk menu non template
+-0 untuk content non-lagu
+-0 untuk sisa content sample template
++2 untuk copyright
+36
