@@ -1,0 +1,640 @@
+[Thu Dec 07 15:11:54.500980 2017] [ssl:warn] [pid 4152:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:11:55.141635 2017] [ssl:warn] [pid 4152:tid 504] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:11:55.672910 2017] [mpm_winnt:notice] [pid 4152:tid 504] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Thu Dec 07 15:11:55.672910 2017] [mpm_winnt:notice] [pid 4152:tid 504] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Thu Dec 07 15:11:55.672910 2017] [core:notice] [pid 4152:tid 504] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 07 15:11:55.751038 2017] [mpm_winnt:notice] [pid 4152:tid 504] AH00418: Parent: Created child process 728
+[Thu Dec 07 15:11:56.907342 2017] [ssl:warn] [pid 728:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:11:57.204232 2017] [ssl:warn] [pid 728:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:11:57.282362 2017] [mpm_winnt:notice] [pid 728:tid 572] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 07 15:18:07.275946 2017] [ssl:warn] [pid 10744:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:18:07.713468 2017] [ssl:warn] [pid 10744:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:18:07.753640 2017] [mpm_winnt:notice] [pid 10744:tid 548] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Thu Dec 07 15:18:07.753640 2017] [mpm_winnt:notice] [pid 10744:tid 548] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Thu Dec 07 15:18:07.753640 2017] [core:notice] [pid 10744:tid 548] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 07 15:18:07.784893 2017] [mpm_winnt:notice] [pid 10744:tid 548] AH00418: Parent: Created child process 7912
+[Thu Dec 07 15:18:08.816191 2017] [ssl:warn] [pid 7912:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:18:09.050578 2017] [ssl:warn] [pid 7912:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:18:09.081828 2017] [mpm_winnt:notice] [pid 7912:tid 648] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 07 15:45:47.952377 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53481] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:45:47.952377 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53481] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:45:47.952377 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53481] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:45:47.952377 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53481] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:41.947666 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:41.947666 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:41.947666 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:41.947666 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:42.971609 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:42.971609 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:42.971609 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:42.971609 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:43.275617 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.275617 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.275617 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:43.275617 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:43.439620 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.439620 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.439620 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:43.439620 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:43.595624 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.595624 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.595624 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:43.595624 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:43.755626 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.755626 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.755626 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:43.759628 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:43.919631 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.919631 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:43.919631 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:43.919631 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:44.079633 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.079633 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.079633 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:44.079633 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:44.275637 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.275637 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.279638 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:44.279638 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:44.475645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.475645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.475645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:44.475645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:44.655645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.655645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:44.655645 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:44.659646 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53482] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:51.388117 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:51.388117 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:51.388117 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:51.388117 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:51.804123 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:51.804123 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:51.808123 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:51.808123 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:51.988127 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:51.988127 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:51.988127 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:51.988127 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:52.196131 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:52.196131 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:52.196131 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:52.196131 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:52.528141 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:52.528141 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:52.528141 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:52.528141 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:46:56.004494 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:56.004494 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:46:56.004494 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:46:56.004494 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53484] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:22.138109 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.138109 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.138109 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:22.138109 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:22.590985 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.594985 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.594985 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:22.594985 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:22.767231 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.767231 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.767231 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:22.767231 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:22.951234 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.951234 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:22.951234 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:22.951234 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:23.111237 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.111237 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.111237 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:23.115238 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:23.307244 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.307244 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.307244 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:23.307244 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:23.667897 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.667897 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.667897 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:23.667897 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:23.875905 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.875905 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:23.875905 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:23.875905 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:24.095907 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.095907 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.099907 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:24.099907 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:24.321603 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.321603 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.321603 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:24.321603 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:24.525604 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.525604 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.529604 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:24.529604 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:24.737611 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.737611 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.737611 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:24.737611 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:24.993614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.993614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:24.997613 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:24.997613 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:25.229619 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.229619 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.229619 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:25.229619 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:25.478059 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.478059 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.478059 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:25.478059 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:25.674061 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.674061 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.674061 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:25.674061 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:25.870063 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.870063 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:25.874064 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:25.874064 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:26.042066 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.046066 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.046066 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:26.046066 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:26.266071 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.266071 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.266071 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:26.266071 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:26.474079 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.474079 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.474079 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:26.474079 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:26.674080 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.674080 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.674080 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:26.674080 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:26.882084 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.882084 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:26.882084 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:26.882084 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:27.078087 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.078087 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.078087 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:27.078087 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:27.290093 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.290093 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.290093 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:27.294092 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:27.474434 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.474434 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.474434 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:27.474434 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:27.658435 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.658435 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.658435 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:27.658435 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:27.858440 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.858440 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:27.862441 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:27.862441 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:28.030444 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:28.030444 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:28.030444 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:28.030444 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:28.202450 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:28.202450 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:28.202450 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:28.202450 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53488] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:37.554928 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:37.554928 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:37.554928 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:37.554928 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:37.846936 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:37.846936 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:37.846936 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:37.846936 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:38.030937 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.034938 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.034938 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:38.034938 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:38.194942 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.194942 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.194942 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:38.194942 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:38.366946 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.366946 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.366946 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:38.366946 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:38.546949 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.550950 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.550950 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:38.550950 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:38.722953 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.726952 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.726952 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:38.726952 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:38.918955 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.918955 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:38.918955 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:38.918955 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:39.094960 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:39.094960 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:39.094960 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:39.094960 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:39.274964 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:39.278964 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index: data in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:39.278964 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:39.278964 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53490] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:50.910433 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:50.910433 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:50.910433 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:50.910433 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:50.910433 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:51.160646 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.160646 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.160646 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:51.160646 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:51.160646 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:51.470528 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.470528 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.470528 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:51.470528 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:51.470528 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:51.628121 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.628121 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.628121 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:51.628121 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:51.628121 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:51.781693 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.781693 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.785692 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:51.785692 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:51.785692 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:51.922694 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.922694 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:51.922694 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:51.922694 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:51.922694 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:52.047639 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.047639 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.047639 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:52.047639 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:52.047639 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:52.173697 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.173697 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.173697 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:52.173697 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:52.173697 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:52.306367 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.310366 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.310366 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:52.310366 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:52.310366 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:52.509614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.509614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.509614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:52.509614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:52.509614 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:47:52.694269 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.694269 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:47:52.694269 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined variable: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 5
+[Thu Dec 07 15:47:52.694269 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:47:52.694269 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53492] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:48:11.956640 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:11.956640 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:11.956640 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:48:11.956640 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:48:12.737191 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:12.737191 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:12.737191 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:48:12.737191 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:48:12.950881 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:12.950881 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index: nim in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:12.950881 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 16
+[Thu Dec 07 15:48:12.950881 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53494] PHP Notice:  Undefined index:  in C:\\xampp\\htdocs\\51015004\\member.php on line 17
+[Thu Dec 07 15:48:19.014929 2017] [php7:notice] [pid 7912:tid 1912] [client ::1:53495] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:48:47.429147 2017] [php7:notice] [pid 7912:tid 1940] [client ::1:53498] PHP Notice:  Use of undefined constant nim - assumed 'nim' in C:\\xampp\\htdocs\\51015004\\index.php on line 4
+[Thu Dec 07 15:53:11.359751 2017] [ssl:warn] [pid 2376:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:53:11.453503 2017] [core:warn] [pid 2376:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 07 15:53:11.594136 2017] [ssl:warn] [pid 2376:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:53:11.625393 2017] [mpm_winnt:notice] [pid 2376:tid 568] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Thu Dec 07 15:53:11.625393 2017] [mpm_winnt:notice] [pid 2376:tid 568] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Thu Dec 07 15:53:11.625393 2017] [core:notice] [pid 2376:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 07 15:53:11.656644 2017] [mpm_winnt:notice] [pid 2376:tid 568] AH00418: Parent: Created child process 7056
+[Thu Dec 07 15:53:12.531679 2017] [ssl:warn] [pid 7056:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:53:12.750439 2017] [ssl:warn] [pid 7056:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:53:12.781690 2017] [mpm_winnt:notice] [pid 7056:tid 572] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 07 15:56:08.688465 2017] [ssl:warn] [pid 7992:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:56:08.797847 2017] [core:warn] [pid 7992:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 07 15:56:08.954105 2017] [ssl:warn] [pid 7992:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:56:09.000979 2017] [mpm_winnt:notice] [pid 7992:tid 568] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Thu Dec 07 15:56:09.000979 2017] [mpm_winnt:notice] [pid 7992:tid 568] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Thu Dec 07 15:56:09.000979 2017] [core:notice] [pid 7992:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 07 15:56:09.016606 2017] [mpm_winnt:notice] [pid 7992:tid 568] AH00418: Parent: Created child process 1468
+[Thu Dec 07 15:56:10.079229 2017] [ssl:warn] [pid 1468:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:56:10.393942 2017] [ssl:warn] [pid 1468:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 07 15:56:10.453410 2017] [mpm_winnt:notice] [pid 1468:tid 604] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 07 15:58:43.243526 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53507] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:58:44.913737 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53507] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:26.316806 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53509] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:26.700857 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53509] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:26.865272 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53509] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:27.064762 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53509] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:50.769445 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53511] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:51.235030 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53511] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:51.416570 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53511] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:51.590344 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53511] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 15:59:51.751104 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53511] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:00:19.849153 2017] [php7:crit] [pid 1468:tid 1928] [client ::1:53513] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:00:20.685952 2017] [php7:crit] [pid 1468:tid 1928] [client ::1:53513] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:00:20.904408 2017] [php7:crit] [pid 1468:tid 1928] [client ::1:53513] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:01:07.645379 2017] [php7:crit] [pid 1468:tid 1936] [client ::1:53515] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:01:07.789015 2017] [php7:crit] [pid 1468:tid 1936] [client ::1:53515] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:01:07.927995 2017] [php7:crit] [pid 1468:tid 1936] [client ::1:53515] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:01:57.974630 2017] [php7:crit] [pid 1468:tid 1928] [client ::1:53518] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:01:58.476533 2017] [php7:crit] [pid 1468:tid 1928] [client ::1:53518] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\member.php on line 19
+[Thu Dec 07 16:02:08.593281 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53520] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:03:15.756539 2017] [php7:crit] [pid 1468:tid 1928] [client ::1:53523] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ';' in C:\\xampp\\htdocs\\51015004\\member.php on line 20
+[Thu Dec 07 16:04:48.405717 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53526] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:04:49.009537 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53526] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:04:49.220960 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53526] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:04:49.370517 2017] [php7:error] [pid 1468:tid 1936] [client ::1:53526] PHP Fatal error:  Uncaught Error: Cannot access private property member::$warna in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:06:04.099048 2017] [php7:error] [pid 1468:tid 1928] [client ::1:53531] PHP Fatal error:  Uncaught Error: Call to undefined method member::getwarna() in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:06:04.562620 2017] [php7:error] [pid 1468:tid 1928] [client ::1:53531] PHP Fatal error:  Uncaught Error: Call to undefined method member::getwarna() in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Thu Dec 07 16:06:04.723817 2017] [php7:error] [pid 1468:tid 1928] [client ::1:53531] PHP Fatal error:  Uncaught Error: Call to undefined method member::getwarna() in C:\\xampp\\htdocs\\51015004\\index.php:16\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\index.php on line 16
+[Tue Dec 12 15:56:56.743805 2017] [ssl:warn] [pid 7276:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 15:56:56.962566 2017] [core:warn] [pid 7276:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 12 15:56:57.260156 2017] [ssl:warn] [pid 7276:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 15:56:58.911579 2017] [mpm_winnt:notice] [pid 7276:tid 568] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Tue Dec 12 15:56:58.911579 2017] [mpm_winnt:notice] [pid 7276:tid 568] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Tue Dec 12 15:56:58.911579 2017] [core:notice] [pid 7276:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Dec 12 15:56:58.989703 2017] [mpm_winnt:notice] [pid 7276:tid 568] AH00418: Parent: Created child process 1104
+[Tue Dec 12 15:57:00.446086 2017] [ssl:warn] [pid 1104:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 15:57:00.852357 2017] [ssl:warn] [pid 1104:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 12 15:57:00.899233 2017] [mpm_winnt:notice] [pid 1104:tid 568] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 12 17:06:36.958490 2017] [php7:crit] [pid 1104:tid 1936] [client ::1:51943] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugas PHP\\prostu.php on line 10
+[Tue Dec 12 17:07:01.736331 2017] [php7:crit] [pid 1104:tid 1936] [client ::1:51948] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:07:08.276018 2017] [php7:crit] [pid 1104:tid 1936] [client ::1:51949] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:08:05.055941 2017] [php7:crit] [pid 1104:tid 1936] [client ::1:51951] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:16:55.353625 2017] [php7:crit] [pid 1104:tid 1936] [client ::1:51978] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:16:58.580779 2017] [php7:crit] [pid 1104:tid 1936] [client ::1:51978] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:17:17.401458 2017] [php7:crit] [pid 1104:tid 1916] [client ::1:51982] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:17:20.031788 2017] [php7:crit] [pid 1104:tid 1916] [client ::1:51982] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:17:20.193897 2017] [php7:crit] [pid 1104:tid 1916] [client ::1:51982] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:17:20.357003 2017] [php7:crit] [pid 1104:tid 1916] [client ::1:51982] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:17:20.503100 2017] [php7:crit] [pid 1104:tid 1916] [client ::1:51982] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:23:22.329903 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:51993] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:23:24.088134 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:51993] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:23:27.077103 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:51993] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:00.875791 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:01.293069 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:01.450176 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:01.624289 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:01.761380 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:01.933494 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:02.266705 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:02.426811 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:02.587921 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:02.749026 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:03.069161 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:03.232268 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:03.382368 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:03.567494 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:03.983770 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:04.395042 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:24:04.591288 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:51998] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:28.192159 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52005] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:28.734333 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52005] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:28.896441 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52005] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:29.068557 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52005] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:29.269690 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52005] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:29.466821 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52005] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:37.893078 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:38.064191 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:38.188273 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:38.297345 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:38.411421 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:38.520493 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:26:38.633568 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52006] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:38.880837 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:41.978537 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:42.148357 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:42.318485 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:42.486585 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:42.645830 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:42.804871 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:42.963750 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.110993 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.256778 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.416780 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.551885 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.707050 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.842825 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:43.998056 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:28:44.126143 2017] [php7:crit] [pid 1104:tid 1924] [client ::1:52010] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:05.525751 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:05.665756 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:05.829759 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:06.001766 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:06.149769 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:06.297772 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Tue Dec 12 17:37:06.449774 2017] [php7:crit] [pid 1104:tid 1928] [client ::1:52305] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Wed Dec 13 09:52:17.356746 2017] [ssl:warn] [pid 7268:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 09:52:17.772754 2017] [core:warn] [pid 7268:tid 644] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 13 09:52:18.008759 2017] [ssl:warn] [pid 7268:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 09:52:22.419066 2017] [mpm_winnt:notice] [pid 7268:tid 644] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Wed Dec 13 09:52:22.419066 2017] [mpm_winnt:notice] [pid 7268:tid 644] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Wed Dec 13 09:52:22.419066 2017] [core:notice] [pid 7268:tid 644] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 13 09:52:22.735962 2017] [mpm_winnt:notice] [pid 7268:tid 644] AH00418: Parent: Created child process 7908
+[Wed Dec 13 09:52:23.744768 2017] [ssl:warn] [pid 7908:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 09:52:24.692787 2017] [ssl:warn] [pid 7908:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 09:52:24.744790 2017] [mpm_winnt:notice] [pid 7908:tid 616] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 13 09:54:05.098941 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:49720] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 10
+[Wed Dec 13 09:57:08.887672 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:49722] PHP Notice:  Undefined index: sex in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 24
+[Wed Dec 13 09:57:08.887672 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:49722] PHP Notice:  Use of undefined constant data - assumed 'data' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 25
+[Wed Dec 13 09:57:08.891673 2017] [php7:warn] [pid 7908:tid 1928] [client ::1:49722] PHP Warning:  Illegal string offset 'warna' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 25
+[Wed Dec 13 09:57:08.891673 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:49722] PHP Notice:  Object of class member could not be converted to int in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 25
+[Wed Dec 13 09:57:08.891673 2017] [php7:warn] [pid 7908:tid 1928] [client ::1:49722] PHP Warning:  A non-numeric value encountered in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 25
+[Wed Dec 13 09:57:08.891673 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:49722] PHP Notice:  Undefined variable: prostu in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 09:57:08.903677 2017] [php7:error] [pid 7908:tid 1928] [client ::1:49722] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 09:58:36.896861 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:49724] PHP Notice:  Undefined variable: prostu in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 09:58:36.896861 2017] [php7:error] [pid 7908:tid 1928] [client ::1:49724] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 10:43:13.978174 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:51820] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:44:05.204323 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:51864] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:45:36.979041 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:51965] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:46:27.725356 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:52009] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:46:28.352904 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:52009] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:50:22.469414 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:52222] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:50:45.097400 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:52246] PHP Parse error:  syntax error, unexpected 'prostu' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:50:53.163440 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:52247] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 10:51:28.777251 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:52291] PHP Parse error:  syntax error, unexpected '$pros' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 11:03:02.041270 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:53252] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 11:03:30.663290 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:53268] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 11:05:49.289346 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:53489] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 11:06:51.304612 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:53625] PHP Parse error:  syntax error, unexpected 'pros' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 11:12:50.434901 2017] [php7:error] [pid 7908:tid 1936] [client ::1:53821] PHP Fatal error:  Constant expression contains invalid operations in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 11
+[Wed Dec 13 11:22:43.986846 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54095] PHP Notice:  Undefined index: program in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 19
+[Wed Dec 13 11:22:43.990843 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54095] PHP Notice:  Undefined variable: memeber in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:22:43.990843 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54095] PHP Notice:  Undefined variable: _GETpros in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:22:43.990843 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54095] PHP Notice:  Trying to get property of non-object in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:22:43.990843 2017] [php7:error] [pid 7908:tid 1928] [client ::1:54095] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:23:45.902657 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:54145] PHP Notice:  Undefined index: program in C:\\xampp\\htdocs\\51015004\\tugasPHP\\prostu.php on line 19
+[Wed Dec 13 11:23:45.906657 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:54145] PHP Notice:  Undefined variable: memeber in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:23:45.906657 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:54145] PHP Notice:  Undefined variable: _GETpros in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:23:45.906657 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:54145] PHP Notice:  Trying to get property of non-object in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:23:45.906657 2017] [php7:error] [pid 7908:tid 1936] [client ::1:54145] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:24:38.664451 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54168] PHP Notice:  Undefined variable: memeber in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:24:38.664451 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54168] PHP Notice:  Undefined variable: _GETpros in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:24:38.664451 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54168] PHP Notice:  Trying to get property of non-object in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:24:38.664451 2017] [php7:error] [pid 7908:tid 1928] [client ::1:54168] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:25:44.916845 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:54193] PHP Notice:  Undefined variable: _GETpros in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:25:44.920844 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:54193] PHP Notice:  Undefined property: member::$ in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:25:44.920844 2017] [php7:error] [pid 7908:tid 1936] [client ::1:54193] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:26:48.941899 2017] [php7:notice] [pid 7908:tid 1928] [client ::1:54229] PHP Notice:  Undefined property: member::$getpros in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:26:48.945900 2017] [php7:error] [pid 7908:tid 1928] [client ::1:54229] PHP Fatal error:  Uncaught Error: Call to a member function getprogram() on null in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php:25\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\51015004\\tugasPHP\\index.php on line 25
+[Wed Dec 13 11:32:41.537515 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54422] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:34:03.550767 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54469] PHP Parse error:  syntax error, unexpected '=' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 40
+[Wed Dec 13 11:34:14.340472 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54481] PHP Parse error:  syntax error, unexpected '=' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 40
+[Wed Dec 13 11:34:15.037076 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54481] PHP Parse error:  syntax error, unexpected '=' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 40
+[Wed Dec 13 11:34:30.456922 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54490] PHP Parse error:  syntax error, unexpected ';' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 40
+[Wed Dec 13 11:34:43.223231 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54500] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:34:57.066396 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54508] PHP Parse error:  syntax error, unexpected '$sex' (T_VARIABLE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:35:08.287476 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54518] PHP Parse error:  syntax error, unexpected 'sex' (T_STRING) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:35:37.829321 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54540] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:35:52.864170 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54550] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:35:53.399011 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54550] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:35:58.896232 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54551] PHP Parse error:  syntax error, unexpected '=' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 40
+[Wed Dec 13 11:36:05.566805 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54558] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:14.651465 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:15.198512 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:15.378053 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:15.556079 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:15.719026 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:15.882206 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:16.053217 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:16.205435 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:36:16.366128 2017] [php7:crit] [pid 7908:tid 1936] [client ::1:54564] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:39:28.626790 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54679] PHP Parse error:  syntax error, unexpected '=' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:39:29.290525 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:54679] PHP Parse error:  syntax error, unexpected '=' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 41
+[Wed Dec 13 11:49:07.281696 2017] [php7:crit] [pid 7908:tid 1928] [client ::1:55077] PHP Parse error:  syntax error, unexpected '}' in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 45
+[Wed Dec 13 11:51:02.103401 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:55143] PHP Notice:  Undefined variable: sex in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 46
+[Wed Dec 13 12:03:47.339885 2017] [php7:notice] [pid 7908:tid 1936] [client ::1:55307] PHP Notice:  Undefined variable: sex in C:\\xampp\\htdocs\\51015004\\tugasPHP\\member.php on line 46
+[Wed Dec 13 15:00:54.984071 2017] [ssl:warn] [pid 1684:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 15:00:55.219443 2017] [core:warn] [pid 1684:tid 588] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 13 15:00:55.406951 2017] [ssl:warn] [pid 1684:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 15:00:57.247925 2017] [mpm_winnt:notice] [pid 1684:tid 588] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Wed Dec 13 15:00:57.247925 2017] [mpm_winnt:notice] [pid 1684:tid 588] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Wed Dec 13 15:00:57.247925 2017] [core:notice] [pid 1684:tid 588] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 13 15:00:57.326053 2017] [mpm_winnt:notice] [pid 1684:tid 588] AH00418: Parent: Created child process 5972
+[Wed Dec 13 15:00:58.685493 2017] [ssl:warn] [pid 5972:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 15:00:58.935505 2017] [ssl:warn] [pid 5972:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 15:00:58.982382 2017] [mpm_winnt:notice] [pid 5972:tid 584] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 13 22:54:40.541844 2017] [ssl:warn] [pid 2216:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 22:54:40.965853 2017] [core:warn] [pid 2216:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 13 22:54:41.133857 2017] [ssl:warn] [pid 2216:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 22:54:43.454281 2017] [mpm_winnt:notice] [pid 2216:tid 564] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Wed Dec 13 22:54:43.454281 2017] [mpm_winnt:notice] [pid 2216:tid 564] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Wed Dec 13 22:54:43.454281 2017] [core:notice] [pid 2216:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 13 22:54:43.514282 2017] [mpm_winnt:notice] [pid 2216:tid 564] AH00418: Parent: Created child process 8528
+[Wed Dec 13 22:54:44.666308 2017] [ssl:warn] [pid 8528:tid 520] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 22:54:44.918311 2017] [ssl:warn] [pid 8528:tid 520] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 13 22:54:44.966313 2017] [mpm_winnt:notice] [pid 8528:tid 520] AH00354: Child: Starting 150 worker threads.
+[Fri Dec 15 09:10:11.297192 2017] [ssl:warn] [pid 5976:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:10:11.534652 2017] [core:warn] [pid 5976:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 15 09:10:11.769038 2017] [ssl:warn] [pid 5976:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:10:13.774099 2017] [mpm_winnt:notice] [pid 5976:tid 564] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Fri Dec 15 09:10:13.774099 2017] [mpm_winnt:notice] [pid 5976:tid 564] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Fri Dec 15 09:10:13.774099 2017] [core:notice] [pid 5976:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 15 09:10:13.867855 2017] [mpm_winnt:notice] [pid 5976:tid 564] AH00418: Parent: Created child process 6580
+[Fri Dec 15 09:10:15.011267 2017] [ssl:warn] [pid 6580:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:10:15.308158 2017] [ssl:warn] [pid 6580:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:10:15.401912 2017] [mpm_winnt:notice] [pid 6580:tid 560] AH00354: Child: Starting 150 worker threads.
+[Fri Dec 15 09:44:18.011492 2017] [ssl:warn] [pid 2156:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:18.265867 2017] [core:warn] [pid 2156:tid 648] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 15 09:44:18.422129 2017] [ssl:warn] [pid 2156:tid 648] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:18.469003 2017] [mpm_winnt:notice] [pid 2156:tid 648] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Fri Dec 15 09:44:18.469003 2017] [mpm_winnt:notice] [pid 2156:tid 648] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Fri Dec 15 09:44:18.469003 2017] [core:notice] [pid 2156:tid 648] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 15 09:44:18.547132 2017] [mpm_winnt:notice] [pid 2156:tid 648] AH00418: Parent: Created child process 5508
+[Fri Dec 15 09:44:19.613415 2017] [ssl:warn] [pid 5508:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:19.863427 2017] [ssl:warn] [pid 5508:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:19.925934 2017] [mpm_winnt:notice] [pid 5508:tid 576] AH00354: Child: Starting 150 worker threads.
+[Fri Dec 15 09:44:51.168327 2017] [ssl:warn] [pid 4236:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:51.308959 2017] [core:warn] [pid 4236:tid 576] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 15 09:44:51.465216 2017] [ssl:warn] [pid 4236:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:51.527720 2017] [mpm_winnt:notice] [pid 4236:tid 576] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Fri Dec 15 09:44:51.527720 2017] [mpm_winnt:notice] [pid 4236:tid 576] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Fri Dec 15 09:44:51.527720 2017] [core:notice] [pid 4236:tid 576] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 15 09:44:51.590223 2017] [mpm_winnt:notice] [pid 4236:tid 576] AH00418: Parent: Created child process 2540
+[Fri Dec 15 09:44:52.639412 2017] [ssl:warn] [pid 2540:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:52.887417 2017] [ssl:warn] [pid 2540:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 15 09:44:52.934295 2017] [mpm_winnt:notice] [pid 2540:tid 572] AH00354: Child: Starting 150 worker threads.
+[Sat Dec 23 14:35:26.632053 2017] [ssl:warn] [pid 624:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:35:26.724050 2017] [core:warn] [pid 624:tid 492] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 23 14:35:26.844054 2017] [ssl:warn] [pid 624:tid 492] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:35:28.414038 2017] [mpm_winnt:notice] [pid 624:tid 492] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Sat Dec 23 14:35:28.414038 2017] [mpm_winnt:notice] [pid 624:tid 492] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Sat Dec 23 14:35:28.414038 2017] [core:notice] [pid 624:tid 492] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 23 14:35:28.494026 2017] [mpm_winnt:notice] [pid 624:tid 492] AH00418: Parent: Created child process 8336
+[Sat Dec 23 14:35:29.590655 2017] [ssl:warn] [pid 8336:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:35:29.786661 2017] [ssl:warn] [pid 8336:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:35:29.826663 2017] [mpm_winnt:notice] [pid 8336:tid 552] AH00354: Child: Starting 150 worker threads.
+[Sat Dec 23 14:43:40.900514 2017] [ssl:warn] [pid 7896:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:43:40.978687 2017] [core:warn] [pid 7896:tid 580] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 23 14:43:41.119276 2017] [ssl:warn] [pid 7896:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:43:41.150529 2017] [mpm_winnt:notice] [pid 7896:tid 580] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Sat Dec 23 14:43:41.150529 2017] [mpm_winnt:notice] [pid 7896:tid 580] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Sat Dec 23 14:43:41.150529 2017] [core:notice] [pid 7896:tid 580] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 23 14:43:41.181779 2017] [mpm_winnt:notice] [pid 7896:tid 580] AH00418: Parent: Created child process 8440
+[Sat Dec 23 14:43:42.103698 2017] [ssl:warn] [pid 8440:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:43:42.306832 2017] [ssl:warn] [pid 8440:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:43:42.353710 2017] [mpm_winnt:notice] [pid 8440:tid 256] AH00354: Child: Starting 150 worker threads.
+[Sat Dec 23 14:46:58.185400 2017] [ssl:warn] [pid 1860:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:46:58.279156 2017] [core:warn] [pid 1860:tid 548] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 23 14:46:58.451038 2017] [ssl:warn] [pid 1860:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:46:58.497917 2017] [mpm_winnt:notice] [pid 1860:tid 548] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Sat Dec 23 14:46:58.497917 2017] [mpm_winnt:notice] [pid 1860:tid 548] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Sat Dec 23 14:46:58.497917 2017] [core:notice] [pid 1860:tid 548] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 23 14:46:58.529172 2017] [mpm_winnt:notice] [pid 1860:tid 548] AH00418: Parent: Created child process 5620
+[Sat Dec 23 14:46:59.622969 2017] [ssl:warn] [pid 5620:tid 200] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:46:59.904232 2017] [ssl:warn] [pid 5620:tid 200] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:46:59.935484 2017] [mpm_winnt:notice] [pid 5620:tid 200] AH00354: Child: Starting 150 worker threads.
+[Sat Dec 23 14:56:28.614812 2017] [ssl:warn] [pid 4576:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:56:28.724198 2017] [core:warn] [pid 4576:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 23 14:56:28.849199 2017] [ssl:warn] [pid 4576:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:56:28.896077 2017] [mpm_winnt:notice] [pid 4576:tid 564] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Sat Dec 23 14:56:28.896077 2017] [mpm_winnt:notice] [pid 4576:tid 564] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Sat Dec 23 14:56:28.896077 2017] [core:notice] [pid 4576:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 23 14:56:28.911704 2017] [mpm_winnt:notice] [pid 4576:tid 564] AH00418: Parent: Created child process 8272
+[Sat Dec 23 14:56:29.843749 2017] [ssl:warn] [pid 8272:tid 220] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:56:30.057807 2017] [ssl:warn] [pid 8272:tid 220] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 14:56:30.104684 2017] [mpm_winnt:notice] [pid 8272:tid 220] AH00354: Child: Starting 150 worker threads.
+[Sat Dec 23 18:17:58.233886 2017] [ssl:warn] [pid 5076:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 18:17:58.343267 2017] [core:warn] [pid 5076:tid 552] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 23 18:17:58.452648 2017] [ssl:warn] [pid 5076:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 18:17:59.718336 2017] [mpm_winnt:notice] [pid 5076:tid 552] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Sat Dec 23 18:17:59.718336 2017] [mpm_winnt:notice] [pid 5076:tid 552] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Sat Dec 23 18:17:59.718336 2017] [core:notice] [pid 5076:tid 552] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 23 18:17:59.749588 2017] [mpm_winnt:notice] [pid 5076:tid 552] AH00418: Parent: Created child process 7836
+[Sat Dec 23 18:18:00.655878 2017] [ssl:warn] [pid 7836:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 18:18:00.890265 2017] [ssl:warn] [pid 7836:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 23 18:18:00.921518 2017] [mpm_winnt:notice] [pid 7836:tid 600] AH00354: Child: Starting 150 worker threads.
+[Fri Dec 29 16:23:32.080936 2017] [ssl:warn] [pid 3060:tid 216] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:23:32.194311 2017] [core:warn] [pid 3060:tid 216] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 29 16:23:32.392571 2017] [ssl:warn] [pid 3060:tid 216] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:23:33.798710 2017] [mpm_winnt:notice] [pid 3060:tid 216] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Fri Dec 29 16:23:33.798710 2017] [mpm_winnt:notice] [pid 3060:tid 216] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Fri Dec 29 16:23:33.798710 2017] [core:notice] [pid 3060:tid 216] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 29 16:23:33.829964 2017] [mpm_winnt:notice] [pid 3060:tid 216] AH00418: Parent: Created child process 4416
+[Fri Dec 29 16:23:34.890565 2017] [ssl:warn] [pid 4416:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:23:35.173495 2017] [ssl:warn] [pid 4416:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:23:35.204749 2017] [mpm_winnt:notice] [pid 4416:tid 592] AH00354: Child: Starting 150 worker threads.
+[Fri Dec 29 16:39:16.751918 2017] [ssl:warn] [pid 7148:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:39:16.890393 2017] [core:warn] [pid 7148:tid 580] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 29 16:39:17.062670 2017] [ssl:warn] [pid 7148:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:39:17.099695 2017] [mpm_winnt:notice] [pid 7148:tid 580] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.0.2l PHP/7.1.11 configured -- resuming normal operations
+[Fri Dec 29 16:39:17.099695 2017] [mpm_winnt:notice] [pid 7148:tid 580] AH00456: Apache Lounge VC14 Server built: Oct 22 2017 11:52:30
+[Fri Dec 29 16:39:17.099695 2017] [core:notice] [pid 7148:tid 580] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 29 16:39:17.129714 2017] [mpm_winnt:notice] [pid 7148:tid 580] AH00418: Parent: Created child process 2644
+[Fri Dec 29 16:39:18.041321 2017] [ssl:warn] [pid 2644:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:39:18.248965 2017] [ssl:warn] [pid 2644:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Dec 29 16:39:18.291493 2017] [mpm_winnt:notice] [pid 2644:tid 276] AH00354: Child: Starting 150 worker threads.
