@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>lagu anak</title>
     <link href="https://fonts.googleapis.com/css?family=Merienda|Short+Stack" rel="stylesheet">
-    <link rel="stylesheet" href="cssa/style.css">
+    <link rel="stylesheet" href="/aset/cssa/style.css">
     <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
   </head>
   <body>

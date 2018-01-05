@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Lagu Anak</title>
-    <link rel="stylesheet" href="csd/style.css">
+    <link rel="stylesheet" href="/aset/csss/style.css">
   </head>
   <body>
     <div class="bungkusanluar">
