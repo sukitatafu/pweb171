@@ -1,0 +1,9 @@
+10untuk tugas
+5 untuj semua lagu dipanggil dan 1 cnontrol
+10 untuk setiap fungction control
++8 untuk setiap costum selector
+-5 untuk kontent sample tersisa
+-5 untuk distrorsion gambar
++5 untuk templet diluar start bootstrap
+
+28
